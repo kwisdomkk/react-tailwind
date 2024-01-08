@@ -1,7 +1,11 @@
+// import Counter from "./Counter";
+// import Info from "./Info";
+// import Login from "./Login";
 
-function App() {
-  return 
-  
-}
+import Password from "./Password";
+
+const App=()=>{
+  return<Password/>
+};
 
 export default App;
